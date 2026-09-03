@@ -21,7 +21,7 @@ hf_token = get_hf_token()
 if not hf_token:
     print("No Hugging Face token was provided. Upload skipped.")
     print("Set HF_TOKEN in your terminal, for example:")
-    print("  $env:HF_TOKEN=\"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\"")
+
     print("Then run:")
     print("  python app/upload.py")
     raise SystemExit(0)
