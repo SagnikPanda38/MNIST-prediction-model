@@ -1,0 +1,4 @@
+tensorflow>=2.15.0
+gradio>=4.0.0       # Or streamlit, depending on what you choose for the UI
+numpy==1.26.4
+pillow
