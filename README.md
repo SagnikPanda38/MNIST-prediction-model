@@ -6,7 +6,7 @@ An end-to-end Machine Learning project that classifies handwritten digits (0-9) 
 
 ## 🚀 Live Demo
 You can view and interact with the deployed model on Hugging Face Spaces here:
-👉 **[Hugging Face Space Live App](https://huggingface.co/spaces/Dragonwarrior38/cnn_model)**
+👉 **[Hugging Face Space Live App](https://huggingface.co/spaces/Dragonwarrior38/Predict_Digit)**
 
 ---
 
